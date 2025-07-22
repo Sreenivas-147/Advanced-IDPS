@@ -12,7 +12,7 @@ import socket
 app = Flask(__name__)
 
 LOG_FILE = "D:/Advanced_IDPS/logs.txt"
-MODEL_PATH = "D:/Advanced_IDPS/Models/idps_model.pkl"
+MODEL_PATH = "Models/idps_model.pkl"
 APP_PASSWORD = "yxmtvlkwddvsyqgg"
 ADMIN_EMAIL = "sreenivasulut147@gmail.com"
 RECIPIENT_EMAIL = "ssreenivasulu392@gmail.com"
