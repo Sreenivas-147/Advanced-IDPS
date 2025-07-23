@@ -9,11 +9,9 @@ An intelligent and secure Intrusion Detection and Prevention System (IDPS) built
 - 🚀 Machine Learning-based threat detection
 - 📊 Trained on NSL-KDD dataset (2025)
 - 🌐 Web dashboard using Flask
-- 🔐 Secure password and environment management
 - 📝 Real-time logging of detected threats
 - 📁 Model persistence using joblib
-- 📦 Deployable to platforms like Heroku or Render
-
+  
 ---
 
 ## 🧠 ML Model Training
