@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python app.py
 
 
-)
+
 
 📚 Dataset
 NSL-KDD 2025 is an improved version of the classic KDD Cup 1999 dataset.
