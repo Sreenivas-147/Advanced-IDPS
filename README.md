@@ -33,11 +33,6 @@ An intelligent and secure Intrusion Detection and Prevention System (IDPS) built
 
 ---
 
-## 📁 Folder Structure
-
-
----
-
 ## ⚙️ Installation
 
 ```bash
